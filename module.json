@@ -1,7 +1,7 @@
 {
-  "name": "grimhollowwp",
-  "title": "Grim Hollow Weapon Properties",
-  "description": "Adds Grim Hollows new weapon properties",
+  "name": "kurisuweaponproperties",
+  "title": "Kurisu Weapon Properties",
+  "description": "Adds new weapon properties",
   "version": "0.2",
   "author": "Draggo",
   "systems": ["dnd5e"],
