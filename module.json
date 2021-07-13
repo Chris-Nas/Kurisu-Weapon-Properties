@@ -1,14 +1,14 @@
 {
-  "name": "kurisuweaponproperties",
-  "title": "Kurisu Weapon Properties",
-  "description": "Adds custom weapon properties including firearm properties",
-  "version": "0.1",
-  "author": "Kurisu",
+  "name": "grimhollowwp",
+  "title": "Grim Hollow Weapon Properties",
+  "description": "Adds Grim Hollows new weapon properties",
+  "version": "0.2",
+  "author": "Draggo",
   "systems": ["dnd5e"],
   "styles": [],
-  "scripts": ["kurisuweaponproperties.js"],
-  "manifest": "https://raw.githubusercontent.com/Chris-Nas/Kurisu-Weapon-Properties/main/module.json",
-  "download": "https://github.com/Chris-Nas/Kurisu-Weapon-Properties/archive/refs/heads/main.zip",
+  "scripts": ["grimhollowwp.js"],
+  "manifest": "https://raw.githubusercontent.com/TheDraggo/GrimHollowWeaponProperties/main/module.json",
+  "download": "https://github.com/TheDraggo/GrimHollowWeaponProperties/archive/main.zip",
   "minimumCoreVersion": "0.7.0",
   "compatibleCoreVersion": "0.7.9"
 }
